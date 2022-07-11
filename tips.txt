@@ -1,0 +1,6 @@
+Go to server directory and run 'node app.js'
+Int a new terminal go to client directory and run 'npm start'
+
+
+
+Go to mongoDb - Database - Browse Collections
